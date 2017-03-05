@@ -1,0 +1,63 @@
+{
+  "resources": {
+
+    "textures": [
+      {
+        "key": "player_texture",
+        "path": "assets/Textures/player.png"
+      },
+      {
+        "key": "enemy_texture",
+        "path": "assets/Textures/enemy.png"
+      },
+      {
+        "key": "placeholder",
+        "path": "assets/Textures/placeholder.png"
+      }
+    ],
+
+    "music": [
+      {
+        "key": "game_music",
+        "path": "assets/Music/game_music.ogg"
+      },
+      {
+        "key": "end_music",
+        "path": "assets/Music/end_music.wav"
+      },
+      {
+        "key": "music_placeholder",
+        "path": "assets/Music/placeholder.wav"
+      }
+    ],
+
+    "effects": [
+      {
+        "key": "jump",
+        "path": "assets/SoundEffects/jump.wav"
+      },
+      {
+        "key": "land",
+        "path": "assets/SoundEffects/land.wav"
+      },
+      {
+        "key": "sound_effect_placeholder",
+        "path": "assets/SoundEffects/placeholder.wav"
+      }
+    ],
+
+    "animations": [
+      {
+        "key": "stick_man",
+        "path": "assets/Textures/sprite_sheet.png",
+        "metaPath": "assets/Animations/stick_man.json"
+      },
+      {
+        "key": "placeholder",
+        "path": "assets/Textures/placeholder.png",
+        "metaPath": "assets/Animations/placeholder.json"
+      }
+    ]
+  } 
+}
+

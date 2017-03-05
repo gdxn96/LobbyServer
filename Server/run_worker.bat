@@ -1,1 +1,1 @@
-python run_worker.py
+python run_worker.py > logs\worker.log -l info 2>&1 

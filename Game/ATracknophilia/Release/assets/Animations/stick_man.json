@@ -1,0 +1,49 @@
+{"frames": [
+
+{
+	"filename": "stick1.png",
+	
+  "frame": {"x":0,"y":0,"w":64,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":205},
+	"sourceSize": {"w":64,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "stick2.png",
+	"frame": {"x":0,"y":205,"w":64,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":205},
+	"sourceSize": {"w":64,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "stick3.png",
+	"frame": {"x":0,"y":410,"w":64,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":205},
+	"sourceSize": {"w":64,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "stick4.png",
+	"frame": {"x":0,"y":615,"w":64,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":205},
+	"sourceSize": {"w":64,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stick_man.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":820},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:981c7c74a657ecbbd242298d199089c0:9b4b8518ea84537c86ff4e9df3819871:58193e24edc70977da3ee7a9cbd43315$"
+}
+}

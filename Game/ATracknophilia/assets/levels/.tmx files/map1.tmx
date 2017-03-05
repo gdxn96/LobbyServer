@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="100" tileheight="100" nextobjectid="427">
+ <objectgroup name="Map Layer">
+  <object id="2" x="0" y="0" width="20000" height="400"/>
+  <object id="11" x="0" y="19600" width="20000" height="400"/>
+  <object id="12" x="0" y="400" width="400" height="19200"/>
+  <object id="13" x="19600" y="400" width="400" height="19200"/>
+  <object id="17" x="10000" y="0">
+   <polygon points="0,0 10000,10000 10000,0"/>
+  </object>
+  <object id="26" x="17000" y="12000" width="1000" height="6000"/>
+  <object id="27" x="18800" y="12000">
+   <polygon points="0,0 200,200 -200,200"/>
+  </object>
+  <object id="28" x="18400" y="12400">
+   <polygon points="0,0 200,200 -200,200"/>
+  </object>
+  <object id="29" x="19200" y="12400">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="30" x="18800" y="12800">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="31" x="18400" y="13200">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="32" x="19200" y="13200">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="33" x="18800" y="13600">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="34" x="18400" y="14000">
+   <polygon points="0,0 200,200 -200,200"/>
+  </object>
+  <object id="35" x="19200" y="14000">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="36" x="18800" y="14400">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="37" x="18400" y="14800">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="38" x="19200" y="14800">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="39" x="18000" y="14400">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="40" x="18000" y="13600">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="41" x="18000" y="12800">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="42" x="19600" y="12800">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="43" x="19600" y="13600">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="44" x="19600" y="14400">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="45" x="18800" y="15200">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="46" x="18400" y="15600">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="47" x="19200" y="15600">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="48" x="18800" y="16000">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="49" x="18400" y="16400">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="50" x="19200" y="16400">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="51" x="18800" y="16800">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="52" x="18400" y="17200">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="53" x="19200" y="17200">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="54" x="18800" y="17600">
+   <polygon points="0,0 -200,200 200,200"/>
+  </object>
+  <object id="55" x="18000" y="15200">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="56" x="19600" y="15200">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="57" x="19600" y="16000">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="58" x="18000" y="16000">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="59" x="18000" y="16800">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="60" x="19600" y="16800">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="61" x="19600" y="17600">
+   <polygon points="0,0 -200,200 0,200"/>
+  </object>
+  <object id="62" x="18000" y="17600">
+   <polygon points="0,0 200,200 0,200"/>
+  </object>
+  <object id="76" x="3600" y="19200">
+   <polygon points="0,0 14400,-1200 0,-1200"/>
+  </object>
+  <object id="81" x="400" y="19000" width="2000" height="200"/>
+  <object id="82" x="3200" y="19000" width="400" height="200"/>
+  <object id="84" x="400" y="18000" width="1000" height="200"/>
+  <object id="85" x="2400" y="18000" width="1200" height="200"/>
+  <object id="93" x="400" y="17000" width="400" height="200"/>
+  <object id="94" x="1600" y="17000" width="1600" height="200"/>
+  <object id="96" x="3600" y="16600" width="13400" height="1400"/>
+  <object id="98" x="400" y="14200" width="14800" height="1000"/>
+  <object id="100" x="4000" y="16400" width="400" height="200"/>
+  <object id="101" x="5200" y="16400" width="400" height="200"/>
+  <object id="102" x="6400" y="16400" width="400" height="200"/>
+  <object id="103" x="7600" y="16400" width="400" height="200"/>
+  <object id="104" x="8800" y="16400" width="400" height="200"/>
+  <object id="105" x="10000" y="16400" width="400" height="200"/>
+  <object id="106" x="11200" y="16400" width="400" height="200"/>
+  <object id="107" x="12400" y="16400" width="400" height="200"/>
+  <object id="108" x="13600" y="16400" width="400" height="200"/>
+  <object id="116" x="15800" y="14700">
+   <polygon points="0,0 -600,-500 -600,500"/>
+  </object>
+  <object id="117" x="17000" y="14700">
+   <polygon points="0,0 -2200,-1900 0,-1900"/>
+  </object>
+  <object id="118" x="17000" y="14700">
+   <polygon points="0,0 -2200,1900 0,1900"/>
+  </object>
+  <object id="119" x="13600" y="12800" width="200" height="800"/>
+  <object id="129" x="12400" y="13400" width="200" height="800"/>
+  <object id="130" x="11200" y="12800" width="200" height="800"/>
+  <object id="131" x="10000" y="13400" width="200" height="800"/>
+  <object id="132" x="8800" y="12800" width="200" height="800"/>
+  <object id="139" x="2000" y="2000" width="6000" height="1000"/>
+  <object id="140" x="6400" y="2000">
+   <polygon points="0,0 0,-1000 -1000,0"/>
+  </object>
+  <object id="141" x="5400" y="1400">
+   <polygon points="0,0 0,-1000 -1000,-1000"/>
+  </object>
+  <object id="142" x="4400" y="1000">
+   <polygon points="0,0 0,1000 -1000,1000"/>
+  </object>
+  <object id="143" x="3400" y="1400">
+   <polygon points="0,0 0,-1000 -1000,-1000"/>
+  </object>
+  <object id="144" x="8000" y="2000">
+   <polygon points="0,0 10000,10000 0,10000"/>
+  </object>
+  <object id="190" x="7600" y="12000" width="9400" height="800"/>
+  <object id="194" x="7600" y="3000" width="400" height="9000"/>
+  <object id="231" x="400" y="12000" width="6800" height="2200"/>
+  <object id="232" x="800" y="3000" width="200" height="8600"/>
+  <object id="235" x="1000" y="3000" width="6600" height="1000"/>
+  <object id="247" x="1600" y="1400" width="400" height="1600"/>
+  <object id="339" x="7000" y="4400" width="200" height="7600"/>
+  <object id="340" x="6600" y="5600" width="400" height="400"/>
+  <object id="341" x="3800" y="6000" width="400" height="800"/>
+  <object id="342" x="1000" y="11200" width="400" height="400"/>
+  <object id="343" x="2200" y="10400" width="400" height="800"/>
+  <object id="344" x="3800" y="10000" width="400" height="800"/>
+  <object id="345" x="2200" y="4400" width="1200" height="800"/>
+  <object id="346" x="1000" y="5600" width="400" height="400"/>
+  <object id="347" x="5400" y="5600" width="400" height="2000"/>
+  <object id="348" x="6200" y="10000" width="400" height="800"/>
+  <object id="349" x="2200" y="8000" width="400" height="1200"/>
+  <object id="350" x="5400" y="8000" width="400" height="1200"/>
+  <object id="351" x="5800" y="5600" width="400" height="400"/>
+  <object id="352" x="3000" y="5600" width="2000" height="400"/>
+  <object id="353" x="5000" y="7200" width="400" height="400"/>
+  <object id="354" x="3800" y="9200" width="400" height="800"/>
+  <object id="355" x="1800" y="9600" width="1200" height="400"/>
+  <object id="356" x="2600" y="7200" width="400" height="400"/>
+  <object id="357" x="6600" y="11200" width="400" height="400"/>
+  <object id="358" x="2200" y="11200" width="400" height="400"/>
+  <object id="359" x="1000" y="6400" width="800" height="1200"/>
+  <object id="360" x="5400" y="11200" width="400" height="400"/>
+  <object id="361" x="5400" y="10400" width="400" height="800"/>
+  <object id="362" x="1400" y="10000" width="400" height="800"/>
+  <object id="363" x="1800" y="5600" width="400" height="400"/>
+  <object id="364" x="3800" y="10800" width="400"/>
+  <object id="365" x="2200" y="5600" width="400" height="2000"/>
+  <object id="366" x="4200" y="9200" width="400" height="400"/>
+  <object id="367" x="1000" y="9600" width="800" height="400"/>
+  <object id="368" x="6200" y="9600" width="800" height="400"/>
+  <object id="369" x="4600" y="4400" width="1200" height="800"/>
+  <object id="370" x="5000" y="9600" width="1200" height="400"/>
+  <object id="371" x="3000" y="8800" width="2000" height="400"/>
+  <object id="372" x="6200" y="6400" width="800" height="1200"/>
+  <object id="373" x="3400" y="9200" width="400" height="400"/>
+  <object id="374" x="800" y="3000">
+   <polygon points="0,0 800,-1600 800,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Boost Layer" visible="0">
+  <object id="325" x="4600" y="1800" width="800" height="200"/>
+  <object id="326" x="18800" y="19400" width="800" height="200"/>
+  <object id="327" x="13400" y="19400" width="800" height="200"/>
+  <object id="328" x="8000" y="19400" width="800" height="200"/>
+ </objectgroup>
+ <objectgroup name="Spawn Layer" visible="0">
+  <object id="330" x="2000" y="1000" width="1000" height="1000"/>
+ </objectgroup>
+ <objectgroup name="Powerup Layer">
+  <object id="331" x="3948" y="8248" width="100" height="100"/>
+  <object id="332" x="3952" y="5056" width="100" height="100"/>
+  <object id="333" x="13800" y="5800" width="100" height="100"/>
+  <object id="334" x="2400" y="15900" width="100" height="100"/>
+ </objectgroup>
+ <layer name="Tile Layer 1" width="200" height="200" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwGcR4AAQ==
+  </data>
+ </layer>
+ <objectgroup name="Obstacle Layer" visible="0">
+  <object id="248" x="8400" y="2000" width="400" height="400"/>
+  <object id="249" x="8800" y="2400" width="400" height="400"/>
+  <object id="250" x="9200" y="2800" width="400" height="400"/>
+  <object id="251" x="10400" y="4000" width="400" height="400"/>
+  <object id="252" x="10000" y="3600" width="400" height="400"/>
+  <object id="253" x="9600" y="3200" width="400" height="400"/>
+  <object id="254" x="11600" y="5200" width="400" height="400"/>
+  <object id="255" x="11200" y="4800" width="400" height="400"/>
+  <object id="256" x="10800" y="4400" width="400" height="400"/>
+  <object id="257" x="12800" y="6400" width="400" height="400"/>
+  <object id="258" x="12400" y="6000" width="400" height="400"/>
+  <object id="259" x="12000" y="5600" width="400" height="400"/>
+  <object id="260" x="14000" y="7600" width="400" height="400"/>
+  <object id="261" x="13600" y="7200" width="400" height="400"/>
+  <object id="262" x="13200" y="6800" width="400" height="400"/>
+  <object id="269" x="15200" y="8800" width="400" height="400"/>
+  <object id="270" x="14800" y="8400" width="400" height="400"/>
+  <object id="271" x="14400" y="8000" width="400" height="400"/>
+  <object id="272" x="16400" y="10000" width="400" height="400"/>
+  <object id="273" x="16000" y="9600" width="400" height="400"/>
+  <object id="274" x="15600" y="9200" width="400" height="400"/>
+  <object id="275" x="17600" y="11200" width="400" height="400"/>
+  <object id="276" x="17200" y="10800" width="400" height="400"/>
+  <object id="277" x="16800" y="10400" width="400" height="400"/>
+  <object id="278" x="16800" y="7200" width="400" height="400"/>
+  <object id="279" x="14800" y="5200" width="400" height="400"/>
+  <object id="280" x="14000" y="4400" width="400" height="400"/>
+  <object id="281" x="10000" y="400" width="400" height="400"/>
+  <object id="282" x="18000" y="8400" width="400" height="400"/>
+  <object id="283" x="15600" y="6000" width="400" height="400"/>
+  <object id="284" x="16400" y="6800" width="400" height="400"/>
+  <object id="285" x="14400" y="4800" width="400" height="400"/>
+  <object id="286" x="18400" y="8800" width="400" height="400"/>
+  <object id="287" x="12800" y="3200" width="400" height="400"/>
+  <object id="288" x="18800" y="9200" width="400" height="400"/>
+  <object id="289" x="13600" y="4000" width="400" height="400"/>
+  <object id="290" x="10800" y="1200" width="400" height="400"/>
+  <object id="291" x="13200" y="3600" width="400" height="400"/>
+  <object id="292" x="15200" y="5600" width="400" height="400"/>
+  <object id="293" x="12000" y="2400" width="400" height="400"/>
+  <object id="294" x="11600" y="2000" width="400" height="400"/>
+  <object id="295" x="17200" y="7600" width="400" height="400"/>
+  <object id="296" x="10400" y="800" width="400" height="400"/>
+  <object id="297" x="19200" y="9600" width="400" height="400"/>
+  <object id="298" x="17600" y="8000" width="400" height="400"/>
+  <object id="299" x="11200" y="1600" width="400" height="400"/>
+  <object id="300" x="12400" y="2800" width="400" height="400"/>
+  <object id="301" x="16000" y="6400" width="400" height="400"/>
+  <object id="302" x="600" y="17400" width="400" height="400"/>
+  <object id="303" x="3000" y="17400" width="400" height="400"/>
+  <object id="304" x="3200" y="18400" width="400" height="400"/>
+  <object id="305" x="600" y="18400" width="400" height="400"/>
+  <object id="308" x="7000" y="15600" width="400" height="400"/>
+  <object id="310" x="10600" y="15600" width="400" height="400"/>
+ </objectgroup>
+ <objectgroup name="Direction Layer" visible="0">
+  <object id="236" x="8000" y="400" width="11600" height="11600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="1"/>
+   </properties>
+  </object>
+  <object id="237" x="400" y="400" width="7600" height="2600">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="0"/>
+   </properties>
+  </object>
+  <object id="238" x="3600" y="18000" width="16000" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="3"/>
+   </properties>
+  </object>
+  <object id="239" x="18000" y="12000" width="1600" height="6000">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="2"/>
+   </properties>
+  </object>
+  <object id="240" x="3600" y="15100" width="13200" height="1500">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="15"/>
+   </properties>
+  </object>
+  <object id="241" x="2400" y="19000" width="700" height="600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="5"/>
+   </properties>
+  </object>
+  <object id="242" x="7500" y="12800" width="9300" height="1500">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="17"/>
+   </properties>
+  </object>
+  <object id="243" x="15200" y="14300" width="1800" height="800">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="16"/>
+   </properties>
+  </object>
+  <object id="244" x="7200" y="4400" width="400" height="8400">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="19"/>
+   </properties>
+  </object>
+  <object id="245" x="800" y="4000" width="6200" height="1200">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="21"/>
+   </properties>
+  </object>
+  <object id="246" x="400" y="3000" width="400" height="8600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="56"/>
+   </properties>
+  </object>
+  <object id="375" x="400" y="19000" width="2000" height="600">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="6"/>
+   </properties>
+  </object>
+  <object id="376" x="1400" y="18024" width="900" height="976">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="8"/>
+   </properties>
+  </object>
+  <object id="378" x="7000" y="4000" width="600" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="20"/>
+   </properties>
+  </object>
+  <object id="382" x="800" y="17000" width="800" height="1024">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="12"/>
+   </properties>
+  </object>
+  <object id="383" x="2300" y="18024" width="1300" height="976">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="7"/>
+   </properties>
+  </object>
+  <object id="384" x="400" y="18200" width="1000" height="800">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="9"/>
+   </properties>
+  </object>
+  <object id="385" x="3300" y="17000" width="300" height="1000">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="11"/>
+   </properties>
+  </object>
+  <object id="386" x="400" y="17200" width="400" height="800">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="13"/>
+   </properties>
+  </object>
+  <object id="387" x="1600" y="17000" width="1700" height="1024">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="10"/>
+   </properties>
+  </object>
+  <object id="388" x="400" y="15200" width="3200" height="1800">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="14"/>
+   </properties>
+  </object>
+  <object id="389" x="6600" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="22"/>
+   </properties>
+  </object>
+  <object id="390" x="6200" y="5200" width="400" height="800">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="23"/>
+   </properties>
+  </object>
+  <object id="391" x="6200" y="6000" width="800" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="34"/>
+   </properties>
+  </object>
+  <object id="392" x="5800" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="24"/>
+   </properties>
+  </object>
+  <object id="393" x="5400" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="25"/>
+   </properties>
+  </object>
+  <object id="394" x="5000" y="5200" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="26"/>
+   </properties>
+  </object>
+  <object id="395" x="4000" y="5200" width="1000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="27"/>
+   </properties>
+  </object>
+  <object id="396" x="3000" y="5200" width="1000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="28"/>
+   </properties>
+  </object>
+  <object id="397" x="2600" y="5200" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="29"/>
+   </properties>
+  </object>
+  <object id="398" x="1000" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="33"/>
+   </properties>
+  </object>
+  <object id="399" x="2200" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="30"/>
+   </properties>
+  </object>
+  <object id="400" x="1800" y="5200" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="31"/>
+   </properties>
+  </object>
+  <object id="401" x="1400" y="5200" width="400" height="800">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="32"/>
+   </properties>
+  </object>
+  <object id="402" x="1000" y="6000" width="800" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="36"/>
+   </properties>
+  </object>
+  <object id="403" x="1800" y="6000" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="37"/>
+   </properties>
+  </object>
+  <object id="404" x="5800" y="6000" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="35"/>
+   </properties>
+  </object>
+  <object id="405" x="2600" y="6800" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="40"/>
+   </properties>
+  </object>
+  <object id="406" x="5000" y="6800" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="38"/>
+   </properties>
+  </object>
+  <object id="408" x="3000" y="6000" width="2000" height="2400">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="39"/>
+   </properties>
+  </object>
+  <object id="410" x="3000" y="8400" width="1000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="45"/>
+   </properties>
+  </object>
+  <object id="411" x="4000" y="8400" width="1000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="44"/>
+   </properties>
+  </object>
+  <object id="412" x="5000" y="7600" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="43"/>
+   </properties>
+  </object>
+  <object id="413" x="2600" y="7600" width="400" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="46"/>
+   </properties>
+  </object>
+  <object id="414" x="1000" y="7600" width="1200" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="48"/>
+   </properties>
+  </object>
+  <object id="415" x="5800" y="7600" width="1200" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="41"/>
+   </properties>
+  </object>
+  <object id="416" x="2200" y="7600" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="47"/>
+   </properties>
+  </object>
+  <object id="417" x="5400" y="7600" width="400" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="42"/>
+   </properties>
+  </object>
+  <object id="418" x="1000" y="9200" width="2000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="51"/>
+   </properties>
+  </object>
+  <object id="419" x="5000" y="9200" width="2000" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="49"/>
+   </properties>
+  </object>
+  <object id="420" x="3000" y="9200" width="2000" height="2400">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="50"/>
+   </properties>
+  </object>
+  <object id="421" x="1000" y="10000" width="2000" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="53"/>
+   </properties>
+  </object>
+  <object id="422" x="5000" y="10000" width="2000" height="1600">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="1"/>
+    <property name="priority" type="float" value="52"/>
+   </properties>
+  </object>
+  <object id="423" x="700" y="11600" width="6300" height="400">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="54"/>
+   </properties>
+  </object>
+  <object id="424" x="7200" y="12800" width="300" height="1500">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="18"/>
+   </properties>
+  </object>
+  <object id="425" x="400" y="11600" width="300" height="400">
+   <properties>
+    <property name="directionX" type="float" value="0"/>
+    <property name="directionY" type="float" value="-1"/>
+    <property name="priority" type="float" value="55"/>
+   </properties>
+  </object>
+  <object id="426" x="3100" y="19000" width="500" height="600">
+   <properties>
+    <property name="directionX" type="float" value="-1"/>
+    <property name="directionY" type="float" value="0"/>
+    <property name="priority" type="float" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

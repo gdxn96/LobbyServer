@@ -54,25 +54,35 @@ def joinLobby(lobby_id):
 	# get or create client
 	client = get_or_create(db.session, Client, ip_address=request.remote_addr)
 	client.lobby_id = lobby_id
+
+	lobby = Lobby.query.get(lobby_id)
+	assert(lobby)
+	lobby.num_players += 1
 	
 	db.session.commit()
 	return str(client.lobby_id)
 
-@app.route('/lobbies/leave/<int:lobby_id>')
-def leaveLobby(lobby_id):
-	lobby = Lobby.query.get(lobby_id)
-	assert(lobby)
-
+@app.route('/lobbies/leave/')
+def leaveLobby():
 	# get or create client
 	client = get_or_create(db.session, Client, ip_address=request.remote_addr)
-	client.lobby_id = lobby_id
-	
+	lobby_id = client.lobby_id
+	client.lobby_id = -1
+
+	lobby = Lobby.query.get(lobby_id)
+	assert(lobby)
+	lobby.num_players -= 1
+
+	if not lobby.num_players:
+		db.session.delete(lobby)
+
 	db.session.commit()
 	return str(client.lobby_id)
 
 if __name__ == "__main__":
 	print "setting up socket"
+
 	udpserver.listen_nonblocking(app.config)
 
 	print "running app"
-	app.run()
+	app.run(debug=app.config["FLASK_DEBUG"], port=app.config["FLASK_PORT"])

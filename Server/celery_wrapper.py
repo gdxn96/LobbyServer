@@ -9,7 +9,10 @@ def daemon_task(task, *args, **kwargs):
 	print "Start daemon {}".format(task.__name__)
 	while True:
 		print "Refresh daemon {}".format(task.__name__)
-		task(*args, **kwargs)
+		try:
+			task(*args, **kwargs)
+		except:
+			pass
 
 
 def start_task(task, *args, **kwargs):

@@ -1,5 +1,6 @@
 ########## Flask
-DEBUG=False
+FLASK_DEBUG=False
+FLASK_PORT=5001
 
 ########## SQLAlchemy
 SQLALCHEMY_DATABASE_URI = 'sqlite:///./db/demo.db'
@@ -16,4 +17,4 @@ UDP_HOST = ''
 UDP_PORT = 8888
 
 ########## Client Settings
-CLIENT_PORT = 5555
+CLIENT_PORT = 5226
